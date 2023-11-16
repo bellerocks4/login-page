@@ -1,0 +1,33 @@
+div {
+    outline-style: solid;
+    outline-width: 2px;
+    outline-color: rgba(0, 0, 0, 0.154);
+    font-family: sans-serif;
+    text-align: center;
+    padding: 30px;
+    width: 45%;
+    margin: 0 auto;
+}
+select {
+    padding: 8px;
+    padding-right: 200px;
+}
+h2 {
+    text-align: left;
+    margin-bottom: -10px;
+}
+h4 {
+    text-align: left;
+}
+h6 {
+    text-align: left;
+    margin-bottom: 1px;
+}
+p {
+    font-size: x-small;
+}
+button {
+    padding: 10px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
